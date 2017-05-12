@@ -92,4 +92,3 @@ let g:vim_markdown_folding_level = 6
 " Keyboard hortcuts
 nnoremap <silent> <F9> :TagbarToggle<CR>
 
-
